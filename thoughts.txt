@@ -1,0 +1,4 @@
+ASCII Characters: https://www.w3schools.com/charsets/ref_html_ascii.asp
+00 is Null.  Null character will represent end of message in text.
+
+Why are the rgb values, all 3, changed?  Should be just the original  g and b with modified r
